@@ -42,7 +42,7 @@
 
 </details>
   
-<div><img height="180em" src="https://github-readme-stats.vercel.app/api?username=luke-oak&show_icons=true&theme=transparent"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke-oak&layout=compact&show_icons=true&theme=transparent")></div>
+<div><img height="150em" src="https://github-readme-stats.vercel.app/api?username=luke-oak&show_icons=true&theme=transparent"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke-oak&layout=compact&show_icons=true&theme=transparent")></div>
 
 
 <!--
