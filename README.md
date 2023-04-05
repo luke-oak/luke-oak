@@ -7,7 +7,7 @@
 <a href="https://instagram.com/don_preton" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-##### - _I am currently sargeant in [Brazilian Army](https://www.eb.mil.br/)_ 🇧🇷 🪖
+##### - _I am a former sargeant in [Brazilian Army](https://www.eb.mil.br/)_ 🇧🇷 🪖
 ##### - _Student of Analisys and Sistems Development in [Fatec de Praia Grande](https://www.fatecpg.edu.br/)_ 👨🏿‍💻
  
 <details>
